@@ -1,0 +1,2 @@
+# MindSpot-
+Simple Emotion Tracker
