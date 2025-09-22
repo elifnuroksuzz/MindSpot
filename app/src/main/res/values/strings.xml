@@ -1,0 +1,30 @@
+<resources>
+    <!-- Uygulama adı -->
+    <string name="app_name">MindSpot</string>
+
+    <!-- Ana ekran -->
+    <string name="app_subtitle">Sade Duygu Takipçisi</string>
+    <string name="mood_entry_title">Bugün nasıl hissediyorsun?</string>
+
+    <!-- Navigasyon -->
+    <string name="go_to_summary">Özet Ekranına Git</string>
+    <string name="back_to_main">Ana Ekrana Dön</string>
+    <string name="back">Geri</string>
+
+    <!-- Özet ekranı -->
+    <string name="summary_title">Ruh Hali Özeti</string>
+
+    <!-- Ruh hali seçenekleri -->
+    <string name="mood_very_good">Harika</string>
+    <string name="mood_good">İyi</string>
+    <string name="mood_normal">Normal</string>
+    <string name="mood_bad">Kötü</string>
+    <string name="mood_very_bad">Çok Kötü</string>
+
+    <!-- Geçici mesajlar -->
+    <string name="temp_mood_entry_message">Bu ekran yakında ruh hali seçenekleriyle doldurulacak</string>
+    <string name="temp_summary_message">Bu ekran yakında ruh hali istatistikleri ve grafiklerle doldurulacak</string>
+
+    <!-- Widget -->
+    <string name="widget_description">MindSpot hızlı ruh hali kaydı - tek dokunuşla ruh halini kaydet</string>
+</resources>

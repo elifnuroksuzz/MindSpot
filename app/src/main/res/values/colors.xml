@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- MindSpot Default Theme Colors -->
+    <color name="mindspot_primary">#4CAF50</color>
+    <color name="mindspot_secondary">#2196F3</color>
+    <color name="mindspot_on_primary">#FFFFFF</color>
+    <color name="mindspot_on_secondary">#FFFFFF</color>
+    <color name="mindspot_background_light">#FFFFFF</color>
+    <color name="mindspot_background_dark">#121212</color>
+    <color name="mindspot_surface_light">#F5F5F5</color>
+    <color name="mindspot_surface_dark">#1E1E1E</color>
+    <color name="mindspot_on_background_light">#333333</color>
+    <color name="mindspot_on_background_dark">#FFFFFF</color>
+    <color name="mindspot_on_surface_light">#333333</color>
+    <color name="mindspot_on_surface_dark">#FFFFFF</color>
+
+    <!-- Warm Sunset Theme Colors -->
+    <color name="warm_sunset_primary">#FF6B35</color>
+    <color name="warm_sunset_secondary">#FF9068</color>
+    <color name="warm_sunset_on_primary">#FFFFFF</color>
+    <color name="warm_sunset_on_secondary">#FFFFFF</color>
+    <color name="warm_sunset_background_light">#FFF8F3</color>
+    <color name="warm_sunset_background_dark">#1A1008</color>
+    <color name="warm_sunset_surface_light">#FFF0E6</color>
+    <color name="warm_sunset_surface_dark">#2D1810</color>
+    <color name="warm_sunset_on_background_light">#2D1810</color>
+    <color name="warm_sunset_on_background_dark">#FFF8F3</color>
+    <color name="warm_sunset_on_surface_light">#2D1810</color>
+    <color name="warm_sunset_on_surface_dark">#FFF8F3</color>
+
+    <!-- Cool Ocean Theme Colors -->
+    <color name="cool_ocean_primary">#00BCD4</color>
+    <color name="cool_ocean_secondary">#4DD0E1</color>
+    <color name="cool_ocean_on_primary">#FFFFFF</color>
+    <color name="cool_ocean_on_secondary">#FFFFFF</color>
+    <color name="cool_ocean_background_light">#F0FDFF</color>
+    <color name="cool_ocean_background_dark">#0A1D21</color>
+    <color name="cool_ocean_surface_light">#E0F7FA</color>
+    <color name="cool_ocean_surface_dark">#0D3B42</color>
+    <color name="cool_ocean_on_background_light">#0D3B42</color>
+    <color name="cool_ocean_on_background_dark">#F0FDFF</color>
+    <color name="cool_ocean_on_surface_light">#0D3B42</color>
+    <color name="cool_ocean_on_surface_dark">#F0FDFF</color>
+
+    <!-- Purple Dream Theme Colors -->
+    <color name="purple_dream_primary">#9C27B0</color>
+    <color name="purple_dream_secondary">#BA68C8</color>
+    <color name="purple_dream_on_primary">#FFFFFF</color>
+    <color name="purple_dream_on_secondary">#FFFFFF</color>
+    <color name="purple_dream_background_light">#FCF8FF</color>
+    <color name="purple_dream_background_dark">#1A0E1D</color>
+    <color name="purple_dream_surface_light">#F3E5F5</color>
+    <color name="purple_dream_surface_dark">#2A1A2E</color>
+    <color name="purple_dream_on_background_light">#2A1A2E</color>
+    <color name="purple_dream_on_background_dark">#FCF8FF</color>
+    <color name="purple_dream_on_surface_light">#2A1A2E</color>
+    <color name="purple_dream_on_surface_dark">#FCF8FF</color>
+
+    <!-- Forest Green Theme Colors -->
+    <color name="forest_green_primary">#2E7D32</color>
+    <color name="forest_green_secondary">#66BB6A</color>
+    <color name="forest_green_on_primary">#FFFFFF</color>
+    <color name="forest_green_on_secondary">#FFFFFF</color>
+    <color name="forest_green_background_light">#F8FFF8</color>
+    <color name="forest_green_background_dark">#0F1B10</color>
+    <color name="forest_green_surface_light">#E8F5E8</color>
+    <color name="forest_green_surface_dark">#1B3B1C</color>
+    <color name="forest_green_on_background_light">#1B3B1C</color>
+    <color name="forest_green_on_background_dark">#F8FFF8</color>
+    <color name="forest_green_on_surface_light">#1B3B1C</color>
+    <color name="forest_green_on_surface_dark">#F8FFF8</color>
+</resources>
