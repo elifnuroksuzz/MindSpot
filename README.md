@@ -92,7 +92,7 @@ Bu mimari sayesinde kod tabanı modüler, ölçeklenebilir ve test edilebilir ha
 
 ## Lisans
 
-Projenin lisans bilgileri eklenecektir (`MIT`, `Apache-2.0` vb.). Lütfen kullanılacak lisans türünü belirleyin ve `LICENSE` dosyasını ekleyin.
+Bu proje MIT lisansı altında dağıtılmaktadır. Detaylar için LICENSE dosyasına bakınız.
 
 ---
 
