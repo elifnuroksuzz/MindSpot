@@ -253,27 +253,7 @@ chore: build process güncellemesi
 
 ---
 
-## 🗺️ Roadmap
 
-### Version 1.1.0 (Q1 2024)
-- [ ] Widget support
-- [ ] Export/Import functionality
-- [ ] Advanced analytics
-- [ ] Custom mood categories
-
-### Version 1.2.0 (Q2 2024)
-- [ ] Jetpack Compose migration
-- [ ] Wear OS support
-- [ ] Machine learning insights
-- [ ] Multi-language support
-
-### Version 2.0.0 (Q3 2024)
-- [ ] Cloud sync (optional)
-- [ ] Social features
-- [ ] AI-powered recommendations
-- [ ] Advanced visualization
-
----
 
 ## 🤝 Katkıda Bulunma
 
